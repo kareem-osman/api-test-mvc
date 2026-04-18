@@ -18,7 +18,7 @@
 </div>
 
 <script>
-const API_URL = "https://api.9ne3etmisr.com/api/index.php?url=v2/users";
+const API_URL = "https://api.9ne3etmisr.com/api/index.php?url=v1/users";
 const TOKEN = "secret123"; // أو من localStorage
 
 fetch(API_URL, {
